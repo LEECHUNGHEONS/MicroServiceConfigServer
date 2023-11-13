@@ -1,1 +1,1 @@
-# MicroServiceConfigServer
+# MicroServiceConfigServer // 마이크로 서비스를 활용하여 컨피그 서버와 서비를 운용하는 리소스 서버를 분리해 도커 이미지를 통해 배포 빌드를 했습니다.
